@@ -1,5 +1,5 @@
 # LeSabri-Nextbot-Game
-my nextbpt game official open source
+my nextbot game official open source
 
 NEXTBOT GAME YEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
